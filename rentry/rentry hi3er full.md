@@ -15,13 +15,15 @@ Difficulties have changed and here are their values:
 - 5D Abstinence = 130D
 - 6D Corruption = 140D
 - 7D Finality = 150D
+Please note that this is only true for there reward scores, and not the actual previous difficulties pre v5.6
 
 **What do these mean?**
-Yes = Crucial signet, get it
+Yes = At some point get this signet. It doesn't matter when, just that you obtain it, as its a signet needed to make the build work.
 1st/2nd/etc = Get this 1st/2nd/etc
+Start = Start with this signet
 Optional = You can take it, but not necessary (mostly if your stigmatas are bad)
-Filler = Only consider going for this if the other portals suck 
-No = Don't get this
+Filler = Only consider going for this if the other portals suck.
+No = Don't get this.
 
 > For more information on ER like how to signet build or known bugs, click [here](https://rentry.co/thebuttererguide). Pretty useful if  say so myself
 
@@ -31,19 +33,19 @@ No = Don't get this
 
 # Argent Knight: Artemis
 
-Time | Support 1 | Support 2
-:------: | :------: | :------:
-Early | AE | LE 
-Mid | AE | LE/HB/BR
-Late | AE | HB/BR
+Time | Sigils | Support 1 | Support 2
+:------: | -----| :------: | :------:
+Early | Forbidden Seed/Burden | AE | LE 
+Mid | Golden Goblet/Light as a Leaf | AE | LE/HB
+Late | Home Lost/ | AE | HB
 
 ### ->Elysia - Signet of ■■<-
 Signet | Priority
 ------|:----:
-**Blessing of Frost Scythe**: Tap [ATK] after evasion to hurl Frost Guisarmier which spins for 5s, gathers enemies nearby, and deal 5400% ATK of Ice DMG. CD: 10s | 1st
-**Blessing of Stellar Trials**: Inflicting Ice Cell also creates a Frost Ring centered around the target lasting 2s which deals 480% ATK of Ice DMG per 0.3s to enemies nearby | 2nd
-**Blessing of Winter Harvest**: Enemies recovering from Ice Cell are inflicted with 1 stack of Hypothermia | 3rd
-**Blessing of Cold Moon**: Inflicting Ice Cell also creates a self-centered Frost Ring lasting 6s which deals 180% ATK of Ice DMG per 0.3s to enemies nearby | 3rd
+**Blessing of Frost Scythe**: Tap [ATK] after evasion to hurl Frost Guisarmier which spins for 5s, gathers enemies nearby, and deal 5400% ATK of Ice DMG. CD: 10s | 2nd
+**Blessing of Stellar Trials**: Inflicting Ice Cell also creates a Frost Ring centered around the target lasting 2s which deals 480% ATK of Ice DMG per 0.3s to enemies nearby | 1st
+**Blessing of Winter Harvest**: Enemies recovering from Ice Cell are inflicted with 1 stack of Hypothermia | **Start**
+**Blessing of Cold Moon**: Inflicting Ice Cell also creates a self-centered Frost Ring lasting 6s which deals 180% ATK of Ice DMG per 0.3s to enemies nearby | Optional
 **Blessing of Uranian Mirror**: Burst mode consumes 100% more SP and Valkyrie deals 90% bonus Total DMG in burst mode | Filler
 
 ### ->Mobius - Signet of Infinity (1st Core) <-
@@ -61,8 +63,10 @@ Signet | Priority
 ------|:----:
 **Artifact of the Inhibitor**: Ultimate boosts Elemental Breach by 25% for 5s | 1st
 **Brand of the Undead**: Ultimate boosts Elemental DMG by 30% for 5s | 2nd
-**Goblet of the Giver**: Ultimate boosts Total DMG by 35% for 5s | 3rd 
+**Goblet of the Giver**: Ultimate boosts Total DMG by 35% for 5s | 3rd
+**Rochet of the Pilgrim**: Ultimate restores 3 sp per second for 5s | **YES** 
 **Nexus Signet 2: Shadow of the Deliverer** |
+**Dream of the Deliverer**: While War of the Deliverer is active increase normal signets of Deliverance effects by 50% | **YES** 
 
 ### ->Eden - Signet of Gold (2nd Core)<-
 Signet | Priority
@@ -71,8 +75,8 @@ Signet | Priority
 **Recitatif of Eden**: Every 10 SP left boosts Total DMG by 3.0% | 2nd
 **Recitatif of Fine Jade**: Initial SP and max SP increase by 30 | 3rd
 **Nexus Signet 2: Echo of Gold**|
-**Echo of Silent Night**: After lasting over 7s, reduce ATK, DEF, ele resists of enemies nearby | 1st
-**Echo of Withered Soil**: After lasting over 7s, boost SP cap and restore SP/s till it ends | Filler
+**Echo of Silent Night**: After lasting over 7s in Final Note, reduce ATK, DEF, ele resists of enemies nearby | 1st
+**Echo of Withered Soil**: After lasting over 7s in Final Note, boost SP cap and restore SP/s till it ends | Filler
 
 ### ->Su - Signet of Bodhi (2nd Core)<-
 Signet | Priority
@@ -81,6 +85,7 @@ Signet | Priority
 **Motto of Asavakkhaya**: Attacks grant 25 bonus combo hits on hit. CD: 5s | 2nd
 **Motto of Iddhi-Vidha**: Combo hits are increased to 60 when below 60. CD: 10s | 3rd
 **Nexus Signet 2: Dictum of Bodhi** |
+**Dictum of Anatman**: Bodhi Open Eye debuffs last 3 seconds longer and every debuff on the enemy boosts Total DMG taken by 5% | Optional
 
 ***
 
@@ -95,9 +100,9 @@ Late | SS | BR
 ### ->Elysia - Signet of ■■<-
 Signet | Priority
 ------|:----:
-**Blessing of Gambit**: Triggering Retaliation or Ultimate Evasion boosts Physical DMG by 25% for 8s. If triggered outside Burst mode, Valkyrie gains Iron Body for 8s; if triggered in Burst mode, Valkyrie additionally unleashes a counterattack cross strike before Phantom Cleave to deal 1200% ATK of Physical DMG | 1st
-**Blessing of Glory**: In Burst mode, Weapon Active has 70% shorter CD and can deal 2400% ATK of bonus Physical DMG at the cost of 12 SP. Weapon Active gains 4% Total DMG boost per second, and the boost resets when Burst mode is activated again | 2nd (1st if doing 5 core build)
-**Blessing of Paragon**: Ultimate grants 5 stacks of Paragon, each of which boosts Total DMG by 4% for 15s | 3rd
+**Blessing of Gambit**: Triggering Retaliation or Ultimate Evasion boosts Physical DMG by 25% for 8s. If triggered outside Burst mode, Valkyrie gains Iron Body for 8s; if triggered in Burst mode, Valkyrie additionally unleashes a counterattack cross strike before Phantom Cleave to deal 1200% ATK of Physical DMG | **Start** 
+**Blessing of Glory**: In Burst mode, Weapon Active has 70% shorter CD and can deal 2400% ATK of bonus Physical DMG at the cost of 12 SP. Weapon Active gains 4% Total DMG boost per second, and the boost resets when Burst mode is activated again | 1st 
+**Blessing of Paragon**: Ultimate grants 5 stacks of Paragon, each of which boosts Total DMG by 4% for 15s | 2nd
 **Blessing of Holy Lance**: During Basic ATK SEQ 4, tap [ATK] repeatedly to thrust the lance at enemies in an increasingly violent manner to deal a total of 6000% ATK of Physical DMG, and Valkyrie is immune to frontal and flank attacks. When Valkyrie's SEQ 4 attack reaches its peak, Basic ATK SEQ 5 will be enhanced to deal 3500% ATK of bonus Physical DMG to enemies in a large area | No
 **Blessing of Formation**: Basic ATK SEQ 5 creates a 3-sec Grav Singularity that pulls in surrounding enemies and deals 2100% ATK of Physical DMG to them. Basic ATK SEQ 4 & 5 and the explosion of the Grav Singularity boost Valkyrie's Total DMG by 3% for 40s (15 stacks max) | No
 
@@ -108,8 +113,8 @@ Signet | Priority
 **Pendant of the Watcher**: Ultimate boosts Physical DMG by 30% for 5s | 2nd
 **Goblet of the Giver**: Ultimate boosts Total DMG by 35% for 5s | 3rd 
 **Nexus Signet 1: Blade of the Deliverer** |
-**Echo of the Deliverer**:  Duration of Final Battle and all buffs provided by Normal Signets of Deliverance are extended to 8s | 1st
-**Crusade of the Deliverer**:After 3s into Final Battle, all buffs provided by Normal Signets of Deliverance increase by 90% instead of 50% | 2nd (No if 5 core build)
+**Echo of the Deliverer**:  Duration of Final Battle and all buffs provided by Normal Signets of Deliverance are extended to 8s | **YES**
+**Crusade of the Deliverer**:After 3s into Final Battle, all buffs provided by Normal Signets of Deliverance increase by 90% instead of 50% | 1st
 
 ### ->Sakura - Signet of Setsuna (1st Core)<-
 Signet | Priority
@@ -133,21 +138,11 @@ Signet | Priority
 ### ->Kalpas - Signet of Decimation (2nd Core)<-
 Signet | Priority
 ------|:----:
-**Path, Misfortune, and Written Fate**: Max HP increases by 25% | 1st
-**Bone, Blood, and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8% | 2nd
-**Blade, Grave, and Scar**: Every 100 HP loss boosts Total DMG by 1.0% | 3rd
+**Path, Misfortune, and Written Fate**: Max HP increases by 25% | 3rd
+**Bone, Blood, and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8% | 1st
+**Blade, Grave, and Scar**: Every 100 HP loss boosts Total DMG by 1.0% | 2nd
 **Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter**|
-**Death, Life, Oblivion, and Existence**:  If [Bloodboil Garment] exceeds 1500, when taking damage, reduces damage taken by 1% of [Bloodboil Garment] | Filler (No if 5 core build)
-
-!!!info Optional Signets (This is a 5 Core BKE build, you only need Blessings of Glory Elysia Signet)
-
-### ->Eden - Signet of Gold (2nd Core)<-
-Signet | Priority
-------|:----:
-**Recitatif of Creeks**: Every 10 SP left boosts Physical & Elemental DMG by 2.5% | 1st
-**Recitatif of Eden**: Every 10 SP left boosts Total DMG by 3.0% | 2nd
-**Recitatif of Fine Jade**: Initial SP and max SP increase by 30 | 3rd
-**Nexus Signet 2: Echo of Gold**|
+**Death, Life, Oblivion, and Existence**:  If [Bloodboil Garment] exceeds 1500, when taking damage, reduces damage taken by 1% of [Bloodboil Garment] | Filler 
 
 ***
 
@@ -177,16 +172,17 @@ Signet | Priority
 **Goblet of the Giver**: Ultimate boosts Total DMG by 35% for 5s | Filler
 **Nexus Signet 1: Blade of the Deliverer**: |
 **Crusade of the Deliverer**: After 3s into Final Battle, all buffs provided by Normal Signets of Deliverance increase by 90% instead of 50% | 1st
-**Echo of the Deliverer**: Duration of Final Battle and all buffs provided by Normal Signets of Deliverance are extended to 8s | 2nd
+**Echo of the Deliverer**: Duration of Final Battle and all buffs provided by Normal Signets of Deliverance are extended to 8s | Filler
 
 ### ->Eden - Signet of Gold (2nd Core)<-
 Signet | Priority
 ------|:----:
 **Recitatif of Creeks**: Every 10 SP left boosts Physical & Elemental DMG by 2.5% | 1st
-**Recitatif of Fine Jade**: Initial SP and max SP increase by 30 | 2nd
-**Recitatif of Birds**: Every 10 SP left reduces Total DMG taken by 2.5% | 3rd
+**Recitatif of Eden**: Every 10 SP left boost Total DMG by 3.0% | 2nd
+**Recitatif of Fine Jade**: Initial SP and max SP increase by 30 | 3rd
+**Recitatif of Birds**: Every 10 SP left reduces Total DMG taken by 2.5% | Optional (see info at the bottom of this build)
 **Nexus Signet 2: Echo of Gold** |
-**Echo of Silent Night**: After lasting over 7s, reduce ATK, DEF, ele resists of enemies nearby | 1st
+**Echo of Silent Night**: After lasting over 7s, reduce ATK, DEF, ele resists of enemies nearby | YES
 
 ### ->Su - Signet of Bodhi (2nd Core)<-
 Signet | Priority
@@ -194,10 +190,12 @@ Signet | Priority
 **Motto of Dibba-Cakkhu**: Combo hits are reset at to boost Total DMG taken by all enemies by 35% for 10s | 1st
 **Motto of Asavakkhaya**: Attacks grant 25 bonus combo hits on hit. CD: 5s | 2nd
 **Motto of Iddhi-Vidha**: Combo hits are increased to 60 when below 60. CD: 10s | 3rd
-**Motto of Dibba-Sota**: Combo hits are reset at to reduce Total DMG taken by the Valkyrie by 32% for 10s | Filler
+**Motto of Dibba-Sota**: Combo hits are reset at to reduce Total DMG taken by the Valkyrie by 32% for 10s | Optional (see info at bottom of this build)
 **Nexus Signet 2: Dictum of Bodhi** |
 **Dictum of Anatman**: Eyes Open debuffs last 3s longer. Every debuff on enemy makes it take 5% more TDM | 1st
 **Dictum of Santam**: Inflict 3 random debuffs when Eyes Open hit | Filler
+
+!!!info If you take the Total DMG Reduction signets you have an optional core 
 
 ### ->Hua - Signet of Vicissitude (2nd Core)<-
 Signet | Priority
@@ -206,10 +204,8 @@ Signet | Priority
 **Dark Garb No More**: Elemental DMG increases by 0.8% per second | 2nd
 **Lost and Found**: Total DMG taken decreases by 0.8% per second | 3rd
 **Nexus Signet 2: Suffering Mass** |
-**Worldly Troubles**: With Soldier's Remembrance, gain TDM equal to 50% of total damage reduction from signets | 1st
+**Worldly Troubles**: With Soldier's Remembrance, gain TDM equal to 50% of total damage reduction from signets | YES
 **Broken Dream**: When possessing Soldier's Remembrance., increase the maximum stack of normal Vicissitude signets by 20 | 2nd
-
-!!!info Worldly Troubles (Hua2) become **YES** if you build Total DMG Reduction signets
 
 ***
 
@@ -239,8 +235,6 @@ Signet | Priority
 **Motto of Iddhi-Vidha**: Combo hits are increased to 60 when below 60. CD: 10s | 3rd
 **Nexus Signet 2: Dictum of Bodhi** |
 **Dictum of Anatman**: The Bodhi: Eyes Open lasts for 3s longer. For every debuff on the target enemy, it takes 5% bonus Total DMG | Filler
-!!!note Su2 may target core before body, leading to no dmg to body for IMG enemies
-!!!note Su1 can miss completely if enemy is above the Valkyrie
 
 ### ->Kevin - Signet of Deliverance (1st Core)<-
 Signet | Priority
@@ -277,21 +271,19 @@ Late | AE | BR
 Signet | Priority
 ------|:----:
 **Blessing of Heatflow**: Black holes generated by the Herrscher of Flamescion deal 75% bonus Fire DMG. Triggering Ultimate Evasion Skill creates an additional black hole | **Start**
-**Blessing of Reburn** Triggering Ultimate Evasion Skill removes Overheat and clears Heat | **1st**
+**Blessing of Reburn** Triggering Ultimate Evasion Skill removes Overheat and clears Heat | 1st
 **Blessing of Tempered Warrior** Aerial Combo ATKs reduce Ultimate Evasion Skill CD by 9s | 2nd
 **Blessing of Starfire** When a black hole created by the Herrscher of Flamescion ends, a smaller black hole lasting 5s is generated to deal 300% ATK of Fire DMG per second. CD: 3s | Filler(If low gear level, 1st)
 **Blessing of Flamescion** For every black hole created by the Herrscher of Flamescion, Valkyrie restores 25 HP per second and deals 30% bonus Total DMG | Filler
 
-### ->Sakura - Signet of Setsuna (2nd Core)<-
+### ->Sakura - Signet of Setsuna (1nd Core)<-
 Signet | Priority
 ------ | :----:
-**Bountiful Blossom: Kiku**: Ultimate Evasions reset Ultimate Evasion Skill CD | **YES**
-**Bountiful Blossom: Fuji**: Ultimate Evasion Skill has 1 more charge and 10% reduced CD | 1st
-**Bountiful Blossom: Koyo**: Triggering Ultimate Evasion Skill boosts Total DMG taken by all enemies by 30% for 8s | 2nd
+**Bountiful Blossom: Fuji**: Ultimate Evasion Skill has 1 more charge and 10% reduced CD | 2nd
+**Bountiful Blossom: Koyo**: Triggering Ultimate Evasion Skill boosts Total DMG taken by all enemies by 30% for 8s | 1st
 **Bountiful Blossom: Ayame**: Triggering Ultimate Evasion Skill restores 12.0 bonus SP | 3rd
-**Nexus Signet 2: Setsuna Blade: Yasha** | 
-**Setsuna Blade: Shinra Bansho**: Triggering Ultimate Evasion Skill 3 times also induces Setsuna Blade: Karuma and makes it deal 200% bonus Ice DMG on every hit | **YES**
-**Setsuna Blade: Mugenjigoku**: Unleashing Setsuna Blade: Karuma reduces Ultimate Evasion Skill's remaining CD by 25% | Filler
+**Nexus Signet 1: Setsuna Blade: Sakura-ni-Maku** | 
+**Setsuna Blade: Ame-Shiko**: Triggering Sakura Screen resets Weapon skill and Ultimate CD | **YES**
 
 ### ->Kalpas - Signet of Decimation (2nd Core)<-
 Signet | Priority
@@ -299,20 +291,19 @@ Signet | Priority
 **Desireless, Mindless, and Homeless**: Losing HP boosts Total DMG taken by all enemies by 25% for 8s | 1st
 **Path, Misfortune, and Written Fate**: Max HP increases by 25% | 2nd
 **Bone, Blood, and Ribbon**: Every 100 HP loss boosts Physical & Elemental DMG by 0.8% | 3rd
-**Letter, Maniac, and Ravings**: Every 100 HP loss reduces Total DMG taken by 0.8% | Filler
+**Blade, Grave, and Scar**: Every 100 HP loss boosts Total DMG by 1% | 4th
 **Nexus Signet 2: Soldiers, Scissors, Spoils, and Slaughter**|
 **Hometown, Homeland, Friends, and Acquaintances**: If [Bloodboil Garment] exceeds 1500, gain 25% physical and elemental breach | **YES**
 **Death, Life, Oblivion, and Existence**:  If [Bloodboil Garment] exceeds 1500, when taking damage, reduces damage taken by 1% of [Bloodboil Garment] | Filler
 
-### -> Griseo - Signet of Stars (1st Core) <-
+### ->Su - Signet of Bodhi (2nd Core)<-
 Signet | Priority
------- | :----:
-**Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 25% bonus Physical and Elemental MG (cannot stack). Triggering it again resets the duration | 1st
-**Yellow & Warm**: Using an Ultimate taints enemies nearby with yellow paint for 8s and makes them take 30% bonus Total DMG. Triggering it again resets the duration | 2nd
-**Grey & Empty**: Enemies stay tainted for 5s longer | 3rd
-**Blue & Cold**: Triggering an Ultimate Evasion Skill taints enemies nearby with blue paint for 8s and reduces their Total DMG and Move Speed by 30%. Triggering it again resets the duration | 4th
-**Nexus Signet 1: Shine like Stars** |
-**Blooming like Flowers**: When enemies of countering types are tainted with both blue and red paints, Valkyries deal 50% bonus Total DMG to them (cannot stack) | **YES**
+------|:----:
+**Motto of Dibba-Cakkhu**: Combo hits are reset at to boost Total DMG taken by all enemies by 35% for 10s | 1st
+**Motto of Asavakkhaya**: Attacks grant 25 bonus combo hits on hit. CD: 5s | 2nd
+**Motto of Iddhi-Vidha**: Combo hits are increased to 60 when below 60. CD: 10s | 3rd
+**Nexus Signet 2: Dictum of Bodhi** |
+**Dictum of Anatman**: The Bodhi: Eyes Open lasts for 3s longer. For every debuff on the target enemy, it takes 5% bonus Total DMG | Filler
 
 !!!info Optional (Choose one or none):
 
@@ -345,27 +336,15 @@ Signet | Priority
 **Echo of Silent Night**: After lasting over 7s, reduce ATK, DEF, ele resists of enemies nearby | 1st
 **Echo of Withered Soil**: After lasting over 7s, boost SP cap and restore SP/s till it ends | Filler
 
-!!!note If using Eden2, please run Sakura1 with:
-
-### ->Sakura - Signet of Setsuna (1st Core)<-
+### -> Griseo - Signet of Stars (1st Core) <-
 Signet | Priority
-------|:----:
-**Bountiful Blossom: Koyo**: Triggering Ultimate Evasion Skill boosts Total DMG taken by all enemies by 30% for 8s | 1st
-**Bountiful Blossom: Ayame**: Triggering Ultimate Evasion Skill restores 12.0 bonus SP | 2nd
-**Bountiful Blossom: Fuji**: Ultimate Evasion Skill has 1 more charge and 10% reduced CD | 3rd
-**Nexus Signet 1: Setsuna Blade: Sakura ni Maku**: |
-**Setsuna Blade: Ame-Shiko**: Activating Sakura Screen resets Ultimate CD and weapon active CD | **YES**
-
-!!!note If you want to run Su2 instead of Eden cores, please use:
-
-### ->Su - Signet of Bodhi (2nd Core)<-
-Signet | Priority
-------|:----:
-**Motto of Dibba-Cakkhu**: Combo hits are reset at to boost Total DMG taken by all enemies by 35% for 10s | 1st
-**Motto of Asavakkhaya**: Attacks grant 25 bonus combo hits on hit. CD: 5s | 2nd
-**Motto of Iddhi-Vidha**: Combo hits are increased to 60 when below 60. CD: 10s | 3rd
-**Nexus Signet 2: Dictum of Bodhi** |
-**Dictum of Anatman**: The Bodhi: Eyes Open lasts for 3s longer. For every debuff on the target enemy, it takes 5% bonus Total DMG | Filler
+------ | :----:
+**Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 25% bonus Physical and Elemental MG (cannot stack). Triggering it again resets the duration | 1st
+**Yellow & Warm**: Using an Ultimate taints enemies nearby with yellow paint for 8s and makes them take 30% bonus Total DMG. Triggering it again resets the duration | 2nd
+**Grey & Empty**: Enemies stay tainted for 5s longer | 3rd
+**Blue & Cold**: Triggering an Ultimate Evasion Skill taints enemies nearby with blue paint for 8s and reduces their Total DMG and Move Speed by 30%. Triggering it again resets the duration | 4th
+**Nexus Signet 1: Shine like Stars** |
+**Blooming like Flowers**: When enemies of countering types are tainted with both blue and red paints, Valkyries deal 50% bonus Total DMG to them (cannot stack) | **YES**
 
 ***
 
@@ -1231,7 +1210,7 @@ Signet | Priority
 Signet | Priority
 ------|:----:
 **Mask of the Predator**: Ultimate boosts Physical Breach by 25% for 5s | 1st
-**Pendant of the Watcher**: Ultimate boosts Physical DMG by 30% for 5s | 2nd
+**Pendant of the Watcher**: Ultimate boost Is Physical DMG by 30% for 5s | 2nd
 **Goblet of the Giver**: Ultimate boosts Total DMG by 35% for 5s | 3rd 
 **Nexus Signet 1: Blade of the Deliverer** |
 **Echo of the Deliverer**:  Duration of Final Battle and all buffs provided by Normal Signets of Deliverance are extended to 8s | 1st
@@ -1253,10 +1232,10 @@ Signet | Priority
 Signet | Priority
 ------|:----:
 **Blessing of Wild Flare** Each hit of Astral Flare unleashes Astral Flare: Erupt, casting 1 Astral Rend in front that deals 200% of ATK as Fire DMG. Each cast of Astral Rend exits Astral Harness state, restoring 3 SP and 80 Astrum, with a maximum of 6 casts | **Start**
-**Blessing of Star Quillon** When unleashing Astral Flare: Ignite, and Astral Flare: Combust, the 4th hit of Basic ATK in Astral Harness state deals 500% of ATK as Fire DMG to enemies within 10m, pulls them towards Valkyrie, and increases the total DMG taken by the target by 20% | **1st**
-**Blessing of Alrescha** Hits dealt by Astral Flare +1. When Astral Flare hits the target, its Fire DMG increases by 40% for 5s. This effect can be refreshed | 2nd
-**Blessing of Radiant Formation** Hits dealt by Astral Flare: Erupt +1. After unleashing Astral Flare: Erupt, the remaining Ultimate CD reduces by 10% and 300 Astrum is restored | 2nd
-**Blessing of Holy Flame** Astral Flare deals an additional 500% ATK of Fire DMG to the target for every 6 hits and increases the Fire DMG to the hit target by 20% (independent effect) for 5s. Can be refreshed | Filler
+**Blessing of Star Quillon** When unleashing Astral Flare: Ignite, and Astral Flare: Combust, the 4th hit of Basic ATK in Astral Harness state deals 500% of ATK as Fire DMG to enemies within 10m, pulls them towards Valkyrie, and increases the total DMG taken by the target by 20% | Filler
+**Blessing of Alrescha** Hits dealt by Astral Flare +1. When Astral Flare hits the target, its Fire DMG increases by 40% for 5s. This effect can be refreshed | Optional
+**Blessing of Radiant Formation** Hits dealt by Astral Flare: Erupt +1. After unleashing Astral Flare: Erupt, the remaining Ultimate CD reduces by 10% and 300 Astrum is restored | **1st**
+**Blessing of Holy Flame** Astral Flare deals an additional 500% ATK of Fire DMG to the target for every 6 hits and increases the Fire DMG to the hit target by 20% (independent effect) for 5s. Can be refreshed | 2nd
 
 ### ->Kalpas - Signet of Decimation (2nd Core)<-
 Signet | Priority
@@ -1458,10 +1437,10 @@ Signet | Priority
 ### -> Griseo - Signet of Stars (1st Core) <-
 Signet | Priority
 ------ | :----:
-**Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 25% bonus Physical and Elemental MG (cannot stack). Triggering it again resets the duration | 1st
-**Yellow & Warm**: Using an Ultimate taints enemies nearby with yellow paint for 8s and makes them take 30% bonus Total DMG. Triggering it again resets the duration | 2nd
-**Grey & Empty**: Enemies stay tainted for 5s longer | 3rd
-**Blue & Cold**: Triggering an Ultimate Evasion Skill taints enemies nearby with blue paint for 8s and reduces their Total DMG and Move Speed by 30%. Triggering it again resets the duration | 4th
+**Red & Hot**: Using a weapon active taints enemies nearby with red paint for 8s and makes them take 25% bonus Physical and Elemental MG (cannot stack). Triggering it again resets the duration | No
+**Yellow & Warm**: Using an Ultimate taints enemies nearby with yellow paint for 8s and makes them take 30% bonus Total DMG. Triggering it again resets the duration | 1st
+**Grey & Empty**: Enemies stay tainted for 5s longer | 2nd
+**Blue & Cold**: Triggering an Ultimate Evasion Skill taints enemies nearby with blue paint for 8s and reduces their Total DMG and Move Speed by 30%. Triggering it again resets the duration | 3rd
 **Nexus Signet 1: Shine like Stars** |
 **Blooming like Flowers**: When enemies of countering types are tainted with both blue and red paints, Valkyries deal 50% bonus Total DMG to them (cannot stack) | **YES**
 
@@ -1709,10 +1688,10 @@ localhousee#7786: morale support (really didn’t work out)
 VampyHime#9207: was a beta tester and translator for beta
 Camelva#7085: helped with build testing and data gathering
 Rafe#5610: helped rekindled the GC again and is also a rentry editor
-Starlight#9581: ER help section
+Starlight#9581: ER help section with story progression
 FrediSK#5056: helped with kalpas boss
 Korath#5931: kalpas boss help
-Kaga#1780 (Citrus): helped get builds out there for people to see, theory crafter, tester and beta tester.
+Kaga#1780 (Citrus): helped get builds out there for people to see, theory crafter, tester and beta tester. They are also a youtuber
 
 **Unnamed people who helped:**
 KenTJY#3888: theory crafter and tester 
@@ -1721,7 +1700,7 @@ BananaCannon#3312: tester
 ignihyde#4498: tester
 Fujinee#3002: tester
 Topperoonie#0484: tester
-SinsOfSeven#3164 (TencentDimepiece): tester and fellow guide maker
+SinsOfSeven#3164 (TencentDimepiece): tester and fellow guide maker  [Signet list here](https://rentry.co/elysian_realm_list)
 ww#1234 (Imy): inspiration and gave the green light to make guide
 Others 
 
